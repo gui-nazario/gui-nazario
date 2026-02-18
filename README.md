@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Opa! Eu sou o Guilherme
 
-<!--
-**gui-nazario/gui-nazario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Sistemas / Sustentação | Automação | Monitoramento  
+🧰 Python • Node.js • PostgreSQL • Docker • Zabbix • ServiceNow • GCP/AWS  
+📍 Brasil
 
-Here are some ideas to get you started:
+## 🚀 Projetos em destaque
+- [Projeto 1 - Nome](link)
+- [Projeto 2 - Nome](link)
+- [Projeto 3 - Nome](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui-nazario&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gui-nazario=SEUUSER&layout=compact)
+
+## 📫 Contato
+- LinkedIn: linkedin.com/in/guilherme-lopes-nazario-2a2906196
+
