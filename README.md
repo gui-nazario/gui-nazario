@@ -10,8 +10,9 @@
 - [Projeto 3 - Nome](link)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui-nazario&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-nazario&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui-nazario&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-nazario&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 📫 Contato
 - LinkedIn: linkedin.com/in/guilherme-lopes-nazario-2a2906196
