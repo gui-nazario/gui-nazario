@@ -11,7 +11,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gui-nazario&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gui-nazario=SEUUSER&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-nazario&layout=compact)
 
 ## 📫 Contato
 - LinkedIn: linkedin.com/in/guilherme-lopes-nazario-2a2906196
