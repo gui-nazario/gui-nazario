@@ -5,7 +5,7 @@
 📍 Brasil
 
 ## 🚀 Projetos em destaque
-- 🧠 [Agente de Monitoramento de Vendas](https://github.com/gui-nazario/agente-monitoramento-vendas) — Detecta anomalias (queda ≥ 30%, faturamento baixo, duplicidade) e registra incidentes no PostgreSQL.
+- 🧠 [Agente de Monitoramento de Vendas]([https://github.com/gui-nazario/agente-monitoramento-vendas]) — Detecta anomalias (queda ≥ 30%, faturamento baixo, duplicidade) e registra incidentes no PostgreSQL.
 
 
 ## 📊 GitHub Stats
