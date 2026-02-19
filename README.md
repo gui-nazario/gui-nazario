@@ -2,7 +2,9 @@
 <p align="center">
   Analista de Sistemas | Sustentação | Automação com Node.js, JavaScript e Python | PostgreSQL
 </p>
-
+<p align="center">
+  Brasil 📍
+</p>
 <h3 align="center">🚀 Tecnologias</h3>
 
 <p align="center">
@@ -10,11 +12,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-
-💻 Analista de Sistemas / Sustentação | Automação | Monitoramento  
-🧰 Python • Node.js • PostgreSQL • Docker • Zabbix • ServiceNow • GCP/AWS  
-📍 Brasil
-
 ## 🚀 Projetos em destaque
 
 - 🧠 **Agente de Monitoramento de Vendas** – Detecção automática de anomalias em vendas com Python + PostgreSQL.  
