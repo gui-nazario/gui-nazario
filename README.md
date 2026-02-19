@@ -5,8 +5,12 @@
 📍 Brasil
 
 ## 🚀 Projetos em destaque
+
 - 🧠 **Agente de Monitoramento de Vendas** – Detecção automática de anomalias em vendas com Python + PostgreSQL.  
   👉 [Ver projeto](https://github.com/gui-nazario/agente-vendas)
+
+- 🚨 **Agente de Monitoramento de Interrupções (iFood)** – Automação em Node.js para consulta de interrupções via API, tratamento de dados e envio de alertas.  
+  👉 [Ver projeto](https://github.com/gui-nazario/agente-ifood-interrupcoes)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gui-nazario&show_icons=true&theme=tokyonight)
