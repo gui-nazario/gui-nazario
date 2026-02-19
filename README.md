@@ -1,4 +1,11 @@
 # 👋 Opa! Eu sou o Guilherme
+<h3 align="center">🚀 Tecnologias</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 💻 Analista de Sistemas / Sustentação | Automação | Monitoramento  
 🧰 Python • Node.js • PostgreSQL • Docker • Zabbix • ServiceNow • GCP/AWS  
