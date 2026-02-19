@@ -1,6 +1,6 @@
 <h1 align="center">👋 Opa! Eu sou o Guilherme</h1>
 <p align="center">
-  Analista de Sistemas | Automação com Node.js, JavaScript e Python | PostgreSQL
+  Analista de Sistemas | Sustentação | Automação com Node.js, JavaScript e Python | PostgreSQL
 </p>
 
 <h3 align="center">🚀 Tecnologias</h3>
