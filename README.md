@@ -16,7 +16,7 @@
 </p>
 ## 🚀 Projetos em destaque
 
-- 🛡️ **Backend .NET com JWT e Refresh Token** – API REST com arquitetura em camadas, autenticação segura, controle de acesso por roles e integração com PostgreSQL.  
+🛡️ Backend .NET (C#) com JWT + Refresh Token – API REST profissional com arquitetura em camadas (Domain, Application, Infrastructure), controle de acesso por roles, paginação, endpoints de dashboard e métricas financeiras, integrada ao PostgreSQL via EF Core. 
   🔗 [Ver projeto](https://github.com/gui-nazario/IncidentManagement.API)
 
 - 🧠 **Agente de Monitoramento de Vendas** – Detecção automática de anomalias em vendas com Python + PostgreSQL.  
